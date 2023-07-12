@@ -31,8 +31,3 @@ int main(){
 	// cout<<P1->area()<<endl; // 已经传递，P1 无所有权
 	return 0;
 }
-
-作者：LeetCode
-链接：https://leetcode.cn/leetbook/read/cmian-shi-tu-po/vv16rj/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
